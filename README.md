@@ -1,4 +1,4 @@
-#[ Data-Analysis-Professional](https://confirm.udacity.com/AGNKHCFD)
+#[ Data-Analysis-Professional](https://confirm.udacity.com/CKGGPFKC)
 
 
 
@@ -40,7 +40,7 @@ Know how to use Matplotlib to produce plots showing your findings
 
 ## Project 1 : A/B testing 
 
-## Project details  :
+# Project details  :
 A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these.
 
 For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
@@ -51,7 +51,7 @@ The data and the Jupyter Notebook, which are all of the files you need to comple
 
 ## Project 2:  Communicte data finding -Data Visualization 
 
-## Details of project 
+# Details of project 
 This project is divided into two major parts. In the first part, you will conduct an exploratory data analysis on a dataset of your choosing. You will use Python data science and data visualization libraries to explore the dataset’s variables and understand the data’s structure, oddities, patterns and relationships. The analysis in this part should be structured, going from simple univariate relationships up through multivariate relationships, but it does not need to be clean or perfect. There is no one single answer that needs to come out of a given dataset. This part of the project is your opportunity to ask questions of the data and make your own discoveries. It’s important to keep in mind that sometimes exploration can lead to dead ends, and that it can take multiple steps to dig down to what you’re truly looking for. Be patient with your steps, document your work carefully, and be thorough in the perspective that you choose to take with your dataset.
 
 In the second part, you will take your main findings from your exploration and convey them to others through an explanatory analysis. To this end, you will create a slide deck that leverages polished, explanatory visualizations to communicate your results. This part of the project should make heavy use of the first part of the project. Select one or two major paths in your exploration, choose relevant visualizations along that path, and then polish them to construct a story for your readers to understand what you found.
